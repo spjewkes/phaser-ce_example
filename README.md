@@ -4,9 +4,9 @@ This is a simple example using the Phaser-CE framework. This is set-up using Web
 
 Once downloaded, run the following:
 
-'''bash
+```bash
 make setup
 make
 make server
-'''
+```
 
